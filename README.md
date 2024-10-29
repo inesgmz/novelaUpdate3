@@ -98,3 +98,7 @@ Novela Actualizado is an Android application for managing a personal library of 
 - **readFromInternalStorage**: Reads data from internal storage.
 - **saveToExternalStorage**: Saves data to external storage.
 - **readFromExternalStorage**: Reads data from external storage.
+
+URL: https://github.com/inesgmz/novelaUpdate3.git
+
+DATABASE URL: https://novelaactualizado-b307e-default-rtdb.firebaseio.com/
